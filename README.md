@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EssenceStar
+- 👋 Hi, I’m @Simon Emmanuel Enemali
 - 👀 I’m interested in learning codes
 - 🌱 I’m currently learning python and also enrolled in ALX software engineering programme.
 - 💞️ I’m looking to collaborate on projects and ideas involving software development.
